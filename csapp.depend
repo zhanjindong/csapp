@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1415879343 source:/usr/local/csapp/common/csapp.c
+	"csapp.h"
+
+1415451819 /usr/local/csapp/common/csapp.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<unistd.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<signal.h>
+	<dirent.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/mman.h>
+	<errno.h>
+	<math.h>
+	<pthread.h>
+	<semaphore.h>
+	<sys/socket.h>
+	<netdb.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
+1415881301 source:/usr/local/csapp/sample/ch11/hostinfo.c
+	"../../common/csapp.h"
+
