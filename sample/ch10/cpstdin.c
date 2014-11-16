@@ -7,4 +7,5 @@ int main(int argc, char **argv)
     {
         Write(STDOUT_FILENO,&c,1);
     }
+    exit(0);
 }

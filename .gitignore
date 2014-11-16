@@ -1,4 +1,5 @@
 bin/
+obj/
 csapp.cbp
 csapp.depend
 csapp.layout
