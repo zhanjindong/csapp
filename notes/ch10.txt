@@ -43,6 +43,7 @@ fork的子进程会拥有父进程文件描述符的副本。
 
 ### I/O重定向
 就是重定向文件描述符指向打开文件表中的位置。
+int dup2(int oldfd,int newfd)
 
 
 ### 硬链接和软连接（Linux,inode）
