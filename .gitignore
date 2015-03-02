@@ -14,7 +14,7 @@ tags
 # Object files
 *.o
 *.s
-
+*.out
 # Libraries
 *.lib
 *.a
