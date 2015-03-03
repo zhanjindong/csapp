@@ -5,8 +5,9 @@
  *
  */
 
-
+#include "../../common/csapp.h"
 #include <pthread.h>
+
 void *thread(void *vargp);
 
 int main(int argc, char **argv)
